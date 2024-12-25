@@ -1,0 +1,4 @@
+POST https://devtube.auth.eu-west-3.amazoncognito.com/oauth2/token
+Content-Type: application/x-www-form-urlencoded
+
+grant_type=authorization_code&client_id=7gtgmf8lik3pr3t153umrs98f5&code=ddc755e5-788d-4e18-affa-dad5059a0c0e&redirect_uri=https://google.com
